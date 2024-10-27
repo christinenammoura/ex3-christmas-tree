@@ -1,0 +1,29 @@
+body {
+    
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#tree {
+    display: inline-block;
+    
+    text-align: center; 
+}
+
+.tree-row {
+    line-height: 1.5em;
+    font-size: 20px;
+    
+}
+
+.star {
+    color: red; 
+}
+
+.pipe {
+    color: green; 
+}
